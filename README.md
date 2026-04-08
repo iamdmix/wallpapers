@@ -13,7 +13,3 @@ This collection is purely a personal curation of wallpapers that I enjoy. All ri
 The purpose of this repository is for personal use and to act as a showcase of amazing art. It is not intended for any commercial purposes.
 
 **If you are the creator of a wallpaper in this collection and would like it removed, please open an issue on this repository, and I will promptly remove it.**
-# wallpapers
-# wallpapers
-# wallpapers
-# wallpapers
